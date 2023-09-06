@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am an audio programming enthusiast who is currently **looking for work** in the field of audio software. (Remote, preferably on a freelance basis.)
+
+Previously I've been employed as a machine learning engineer, a freelance iOS developer, and much more. I have also written and co-written a number of books and have published my own apps and games.
+
+- [My audio programming blog](https://audiodev.blog)
+- [My machine learning blog](https://machinethink.net)
+- [Code Your Own Synth Plug-Ins With C++ and JUCE](https://leanpub.com/synth-plugin) — my latest book
+
+
 <!--
 **hollance/hollance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
